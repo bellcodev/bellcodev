@@ -16,10 +16,9 @@
 
 ---
 
-### 📊 Estadísticas
+### 📊 Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonaldDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonaldDev&layout=compact&theme=radical)
 
 ---
 
