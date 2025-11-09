@@ -17,7 +17,8 @@
 ---
 
 ###🧑‍💻 Tech Stack
-<img src="https://i.imgur.com/bzWyPrV.png" width=200 alt="Python">
+
+- <img src="https://i.imgur.com/bzWyPrV.png" width=50 alt="Python">
 
 ---
 
