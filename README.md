@@ -6,13 +6,13 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About me
 
-- 🧠 Aprendiendo programación cada día
-- 🛠️ Creo apps con interfaz gráfica y bases de datos
-- 🎨 Me apasiona el diseño visual y la organización del código
-- 📚 Documentación clara y presentación profesional
-- 📈 Siempre buscando mejorar la experiencia de usuario
+- 🧠 Learning programming every day
+- 🛠️ I create apps with graphical interface and databases
+- 🎨 I am passionate about visual design and code organization
+- 📚 Clear documentation and professional presentation
+- 📈 Always looking to improve the user experience
 
 ---
 
