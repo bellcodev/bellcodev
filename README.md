@@ -22,17 +22,17 @@
 
 ---
 
-### 📂 Proyectos destacados
+### 📂 Featured Projects
 
-| Proyecto | Descripción | Tecnologías |
+| Project | Description | Technologies |
 |---------|-------------|-------------|
-| 🎬 Buscador de Películas | App que consume la API de OMDB | Python, requests, Tkinter |
-| 🗃️ SQLite Browser | Navegador visual para bases de datos | Python, customtkinter, SQLite |
-| 📺 Reproductor Web | Reproductor de video con controles personalizados | HTML, CSS, JS |
+| 🎬 Movie Search Engine | App using API OMDB | Python, requests, Tkinter |
+| 🗃️ SQLite Browser | Visual Database Browser | Python, customtkinter, SQLite |
+| 📺 Web Player | Online Video Player | HTML, CSS, JS |
 
 ---
 
-### 📫 Contacto
+### 📫 Contact
 
 - 📺 Instagram: *@whoisronystar*
 - 📧 Email: *[belloconcepcionr@gmail.com]*
@@ -40,6 +40,5 @@
 ---
 
 <div align="center">
-  <strong>Gracias por visitar mi perfil 🙌</strong><br>
-  <em>Siempre abierto a colaborar en proyectos interesantes.</em>
+  <strong>Thank you for visiting my profile 🙌</strong><br>
 </div>
