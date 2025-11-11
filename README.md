@@ -2,9 +2,7 @@
   <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar" width="620" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
   <h1>Hi, I'm <a href="https://instagram.com/whoisronystar" target="_blank" style="color:#1e90ff;">Ronald</a> 👨‍💻</h1>
   <p><strong><span style="color:#1e90ff;">Self-taught developer</span> focused on graphical interfaces, user experience and functional solutions.</strong></p>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 </div>
-
 ---
 
 ### 🚀 About Me
@@ -34,7 +32,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonaldDev&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=lion0078&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
