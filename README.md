@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar" width="620" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
 </div>
 
-[![GitHub followers](https://img.shields.io/github/followers/lion0078?style=social)](https://github.com/lion0078)
+[![GitHub followers](https://img.shields.io/github/followers/bellcodev?style=social)](https://github.com/bellcodev)
 [![Instagram](https://img.shields.io/badge/Instagram-%40whoisronystar-E4405F?style=social&logo=instagram)](https://instagram.com/whoisronystar)
 
 ---
