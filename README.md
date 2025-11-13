@@ -67,8 +67,7 @@
 
 ### 📫 Contact Me
 
-- 📷 Instagram: [@whoisronystar](https://instagram.com/whoisronystar)
-- 📧 Email: [belloconcepcionr@gmail.com](mailto:belloconcepcionr@gmail.com)
+[![Contacto](https://img.shields.io/badge/Email-belloconcepcionr@gmail.com-002341?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=011322)](mailto:belloconcepcionr@gmail.com)
 
 ---
 
