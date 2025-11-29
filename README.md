@@ -1,79 +1,52 @@
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 10px;">
-  
-  <h1>Hi, I'm <a href="https://instagram.com/whoisronystar" target="_blank" style="color:#1e90ff;">Ronald</a> 👨‍💻</h1>
-  
-  <p><strong><span style="color:#1e90ff;">Self-taught developer</span> focused on graphical interfaces, user experience and functional solutions.</strong></p>
-  <img src="https://i.imgur.com/n17jGgB.jpeg" alt="Ronald Avatar" width="620" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2);">
-</div>
+<!-- Perfil README bellcodev -->
 
-[![GitHub followers](https://img.shields.io/github/followers/bellcodev?style=social)](https://github.com/bellcodev)
-[![Instagram](https://img.shields.io/badge/Instagram-%40whoisronystar-E4405F?style=social&logo=instagram)](https://instagram.com/whoisronystar)
+<h1 align="center">👋 Hola, soy Ronald</h1>
+<p align="center">
+  💻 Desarrollador Backend | 🎨 Enfocado en APIs y Creacion de webs | 🚀 Construyendo soluciones funcionales
+</p>
 
----
-
-### 🚀 About Me
-
-- 🧠 Constant learner in software development
-- 🛠️ Builder of apps with intuitive UIs and solid database integration
-- 🎨 Lover of clean design and modular code
-- 📚 Advocate for clear documentation and professional presentation
-- 📈 Obsessed with improving user experience through iteration
+![GitHub followers](https://img.shields.io/github/followers/bellcodev?style=social)
+![GitHub stars](https://img.shields.io/github/stars/bellcodev?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=bellcodev&color=blue)
 
 ---
 
-### 🧑‍💻 Tech Stack
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; padding: 10px;">
-  <img src="https://i.imgur.com/bzWyPrV.png" width="50" alt="Python" title="Python">
-  <img src="https://i.imgur.com/v92lxJg.png" width="50" alt="HTML" title="HTML">
-  <img src="https://i.imgur.com/yh2dpCs.png" width="50" alt="CSS" title="CSS">
-  <img src="https://i.imgur.com/4yyGBvm.png" width="50" alt="JavaScript" title="JavaScript">
-  <img src="https://i.imgur.com/834DEfK.png" width="50" alt="SQL" title="SQL">
-  <img src="https://i.imgur.com/BlRCvyx.png" width="50" alt="GitHub" title="GitHub">
-  <img src="https://i.imgur.com/xqQufKu.png" width="50" alt="Git" title="Git">
-</div>
+## 🌟 Sobre mí
+- 🔭 Actualmente trabajando en proyectos de **Python** y aplicaciones web con APIs.
+- 🌱 Aprendiendo y mejorando en **JavaScript**, **Python** y **APIs REST**.
+- 🎯 Objetivo: Crear experiencias de usuario intuitivas y accesibles.
+- 📫 Cómo contactarme: [Email](mailto:belloconcepcionr@gmail.com) · [Portafolio](https://tuportafolio.com)
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bellcodev&show_icons=true&theme=radical&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&border_radius=15&line_height=30" alt="GitHub Stats" width="480">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellcodev&layout=compact&theme=radical&langs_count=8&card_width=480" alt="Top Languages" width="480">
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=bellcodev&theme=radical&margin-w=15&margin-h=15&row=1&column=6" alt="GitHub Trophies" width="100%">
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bellcodev&theme=radical&date_format=j%20M%5B%20Y%5D&fire=DD2727&ring=FFB86C&currStreakLabel=50FA7B&sideLabels=8BE9FD" alt="GitHub Streak" width="480">
-
-</div>
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode" />
+</p>
 
 ---
 
-### 📂 Featured Projects
-
-| 💡 Project | 📝 Description | 🧰 Technologies |
-|-----------|----------------|----------------|
-| 🎬 **Movie Search Engine** | App using OMDB API to search movies | Python, requests, Tkinter |
-| 🗃️ **SQLite Browser** | Visual interface for SQLite databases | Python, customtkinter, SQLite |
-| 📺 **Web Player** | Online video player with custom UI | HTML, CSS, JavaScript |
-
----
-
-### 📫 Contact Me
-
-[![Contacto](https://img.shields.io/badge/Email-belloconcepcionr@gmail.com-002341?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=011322)](mailto:belloconcepcionr@gmail.com)
+## 🚀 Proyectos Destacados
+| Proyecto | Descripción | Tecnologías | Demo |
+|----------|-------------|-------------|------|
+| 🎬 **Movie Search** | Buscador de películas con OMDB API | Python, Tkinter, requests | [Ver](https://github.com/bellcodev/movie-search) |
+| 📂 **SQLite Browser** | Navegador de bases de datos SQLite con GUI | Python, customtkinter, sqlite3 | [Ver](https://github.com/bellcodev/sqlite-browser) |
+| 🎵 **Web Player** | Reproductor web simple | HTML, CSS, JS | [Ver](https://github.com/bellcodev/web-player) |
 
 ---
 
-<div align="center">
-  <strong style="font-size: 1.1em;">Thanks for visiting my profile 🙌</strong><br>
-  <em>Let’s build something amazing together.</em>
-</div>
+## 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bellcodev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellcodev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Conecta conmigo
+- 🌐 [Instagram](instagram.com/whoisronystar)
+- 🌐 [Email](mailto:belloconcepcionr@gmail.com)
+
+---
+
+<p align="center">✨ “Programar no es solo escribir código” ✨</p>
