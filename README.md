@@ -21,7 +21,12 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,sqlite,git,github,vscode" />
+
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?logo=python&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  
 </p>
 
 ---
@@ -36,10 +41,10 @@
 ---
 
 ## 📊 Estadísticas
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellcodev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellcodev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+![bellcodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellcodev&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcodev&layout=compact&theme=transparent)
 
 ---
 
