@@ -15,7 +15,7 @@
 - 🔭 Actualmente trabajando en proyectos de **Python** y aplicaciones web con APIs.
 - 🌱 Aprendiendo y mejorando en **JavaScript**, **Python** y **APIs REST**.
 - 🎯 Objetivo: Crear experiencias de usuario intuitivas y accesibles.
-- 📫 Cómo contactarme: [Email](mailto:belloconcepcionr@gmail.com) · [Portafolio](https://tuportafolio.com)
+- 📫 Cómo contactarme: [Email](mailto:belloconcepcionr@gmail.com)
 
 ---
 
