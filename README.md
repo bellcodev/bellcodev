@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hola, soy Ronald</h1>
 <p align="center">
-  💻 Desarrollador Backend | 🎨 Enfocado en APIs y Creacion de webs | 🚀 Construyendo soluciones funcionales
+  💻 Desarrollador Backend | 🎨 Enfocado en Backend | 🚀 Construyendo soluciones funcionales
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/bellcodev?style=social)
