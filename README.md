@@ -28,11 +28,39 @@
 ---
 
 ## 🚀 Proyectos Destacados
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| 🎬 **Movie Search** | Buscador de películas con OMDB API | Python, Tkinter, requests | [Ver](https://github.com/bellcodev/movie-search) |
-| 📂 **SQLite Browser** | Navegador de bases de datos SQLite con GUI | Python, customtkinter, sqlite3 | [Ver](https://github.com/bellcodev/sqlite-browser) |
-| 🎵 **Web Player** | Reproductor web simple | HTML, CSS, JS | [Ver](https://github.com/bellcodev/web-player) |
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">SQLite3 Browser</h3>
+<div align="center">
+<a href="https://github.com/bellcodev/SQL-Browser" target="_blank"><img src="https://i.imgur.com/1NAP2ZD.png" width="400" alt="Navegador SQLite3"></a>
+<p>
+<a href="https://github.com/bellcodev/SQL-Browser" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Este repositorio contiene una aplicación de escritorio desarrollada en Python 3 con interfaz gráfica en Tkinter, ideal para cualquier persona que quiera explorar y modificar bases de datos SQLite sin complicaciones.
+</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Github Profile Analyzer</h3>
+<div align="center">                                       
+<a href="https://github.com/bellcodev/Github-Profile-Analyzer" target="_blank"><img src="https://i.imgur.com/yrbZRG5.png" width="400" alt="Analizador de perfiles de github"></a>
+<br>
+<p>
+<a href="https://github.com/bellcodev/Github-Profile-Analyzer" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORIO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>Una aplicacion web bastante sencilla con interfaz muy simple que te brinda hasta el ultimo detalle de un perfil de github utilizando la api oficial de github.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 ---
 
