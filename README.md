@@ -21,11 +21,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,js,html,css,sqlite,git,github,vscode" />
-
-![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?logo=python&logoColor=white&style=flat)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,fastapi,git,github,vscode" />
   
 </p>
 
@@ -42,16 +38,11 @@
 
 ## 📊 Estadísticas
 
-![bellcodev's GitHub stats](https://github-readme-stats.vercel.app/api?username=bellcodev&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellcodev&layout=compact&theme=transparent)
+| ![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=bellcodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true) | ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bellcodev&layout=compact&langs_count=8&theme=algolia) |
+| --- | --- |
 
 ---
 
 ## 📫 Conecta conmigo
 - 🌐 [Instagram](instagram.com/whoisronystar)
 - 🌐 [Email](mailto:belloconcepcionr@gmail.com)
-
----
-
-<p align="center">✨ “Programar no es solo escribir código” ✨</p>
