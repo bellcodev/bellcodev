@@ -9,6 +9,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/bellcodev?style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=bellcodev&color=blue)
 
+<img align="center" src="mario-banner.gif" width=800>
+
 ---
 
 ## 🌟 Sobre mí
