@@ -76,5 +76,5 @@
 ---
 
 ## 🌐 Connect with Me
-- 📸 [Instagram](https://instagram.com/whoisronystar)  
-- 📧 [Email](mailto:belloconcepcionr@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-2C2C2C?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/whoisronystar)
+[![Email](https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=D1483)](mailto:belloconcepcionr@gmail.com)
