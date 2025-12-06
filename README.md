@@ -1,6 +1,13 @@
 <!-- Profile README bellcodev -->
 
 <h1 align="center">👋 Hi, I'm Ronald</h1>
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://bellcodev.netlify.app)
+
+</div>
+
 <p align="center">
   💻 Backend Developer | 🎨 Minimalist in design | 🚀 Building functional and scalable solutions
 </p>
@@ -29,7 +36,6 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 <table>
 <tr>
