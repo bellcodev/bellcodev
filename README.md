@@ -4,6 +4,8 @@
 
 <div align="center">
 
+<img src="https://github.com/user-attachments/assets/068c1563-b323-4d13-874f-3030eb892353" width="800" alt="Banner">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://bellcodev.netlify.app)
 
 </div>
@@ -17,8 +19,6 @@
   <img src="https://img.shields.io/github/followers/bellcodev?style=social" alt="GitHub followers"/>
   <img src="https://img.shields.io/github/stars/bellcodev?style=social" alt="GitHub stars"/>
 </p>
-
-<img align="center" src="mario-banner.gif" width="800" alt="Animated banner"/>
 
 ---
 
@@ -78,3 +78,8 @@
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-2C2C2C?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/whoisronystar)
 [![Email](https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=D1483)](mailto:belloconcepcionr@gmail.com)
+
+<div align="center">
+  <br>
+  <img src="mario-banner.gif" width="300" alt="Animated banner"/>
+</div>
