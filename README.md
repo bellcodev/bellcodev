@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/068c1563-b323-4d13-874f-3030eb892353" width="800" alt="Banner">
+<img src="https://github.com/user-attachments/assets/90ac0cb7-4c96-4fdf-a167-c0bccf7f2928" width="800" alt="Banner">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://bellcodev.netlify.app)
 
