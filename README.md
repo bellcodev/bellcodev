@@ -2,6 +2,18 @@
 
 <h1 align="center">👋 Hi, I'm Ronald</h1>
 
+<h3 align='center'>README Sections</h3>
+
+<div align='center'>
+
+[![About me](https://img.shields.io/badge/About%20me-black?style=for-the-badge)](https://github.com/bellcodev#-about-me)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-black?style=for-the-badge)](https://github.com/bellcodev#-tech-stack)
+[![Featured Projects](https://img.shields.io/badge/Featured%20Projects-black?style=for-the-badge)](https://github.com/bellcodev#-featured-projects)
+[![Stats](https://img.shields.io/badge/Stats-black?style=for-the-badge)](https://github.com/bellcodev#-stats)
+[![Connect With me](https://img.shields.io/badge/Connect%20With%20me-black?style=for-the-badge)](https://github.com/bellcodev#-connect-with-me)
+
+</div>
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/90ac0cb7-4c96-4fdf-a167-c0bccf7f2928" width="800" alt="Banner">
@@ -78,6 +90,7 @@
 ## 🌐 Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-2C2C2C?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/whoisronystar)
 [![Email](https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=D1483)](mailto:belloconcepcionr@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2C2C2C?style=for-the-badge&logo=telegram&logoColor=#4493DB)](https://t.me/bellcodev)
 
 <div align="center">
   <br>
