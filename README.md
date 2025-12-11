@@ -7,7 +7,7 @@
 <div align='center'>
 
 [![About me](https://img.shields.io/badge/About%20me-black?style=for-the-badge)](https://github.com/bellcodev#-about-me)
-[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-black?style=for-the-badge)](https://github.com/bellcodev#-tech-stack)
+[![Tech Stack](https://img.shields.io/badge/Tech%20Stack-black?style=for-the-badge)](https://github.com/bellcodev#%EF%B8%8F-tech-stack)
 [![Featured Projects](https://img.shields.io/badge/Featured%20Projects-black?style=for-the-badge)](https://github.com/bellcodev#-featured-projects)
 [![Stats](https://img.shields.io/badge/Stats-black?style=for-the-badge)](https://github.com/bellcodev#-stats)
 [![Connect With me](https://img.shields.io/badge/Connect%20With%20me-black?style=for-the-badge)](https://github.com/bellcodev#-connect-with-me)
