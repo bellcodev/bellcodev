@@ -16,7 +16,8 @@
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/90ac0cb7-4c96-4fdf-a167-c0bccf7f2928" width="800" alt="Banner">
+| <img src="https://github.com/user-attachments/assets/90ac0cb7-4c96-4fdf-a167-c0bccf7f2928" width="800" alt="Banner"> |
+|---|
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=google-chrome&logoColor=ffffff)](https://bellcodev.netlify.app)
 
@@ -27,9 +28,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bellcodev&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/bellcodev?style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/bellcodev?style=social" alt="GitHub stars"/>
+  
+<img src="https://komarev.com/ghpvc/?username=bellcodev&color=blue" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/bellcodev?style=social" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/bellcodev?style=social" alt="GitHub stars"/>
+  
 </p>
 
 ---
@@ -44,7 +47,10 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,js,html,css,git,github,vscode" width="1000"/>
+
+| <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,js,html,css,git,github,vscode" width="1000"/> |
+|---|
+
 </p>
 
 ---
@@ -94,5 +100,5 @@
 
 <div align="center">
   <br>
-  <img src="mario-banner.gif" width="300" alt="Animated banner"/>
+  <img src="name.svg" width="600" alt="Ronald"/>
 </div>
