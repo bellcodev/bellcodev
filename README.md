@@ -85,6 +85,38 @@
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Christmas Control Panel</h3>
+<div align="center">
+<a href="https://github.com/bellcodev/Christmas-ControlPanel" target="_blank">
+<img src="https://github.com/user-attachments/assets/c8737175-8fbd-48d1-b9c0-ec19e79b0a60" alt="Christmas Control Panel">
+</a>
+<p>
+<a href="https://github.com/bellcodev/Christmas-ControlPanel" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORY-f25f68?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A festive dashboard for backend tools and holiday-themed system controls.</p>
+</div>
+</td>
+  
+<td width="50%">
+<h3 align="center">Custom Console</h3>
+<div align="center">
+<a href="https://github.com/bellcodev/Custom-Console"> <img alt="Custom Console" src="https://github.com/user-attachments/assets/8dedb090-bd0e-409c-9028-4e0422d44994" /> </a>
+<p>
+<a href="https://github.com/bellcodev/Custom-Console" target="_blank">
+<img src="https://img.shields.io/badge/REPOSITORY-011627?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>A script to customize the terminal that not only makes it visually appealing but also adds commands that simplify backend work.</p>
+</div>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📊 Stats
