@@ -48,7 +48,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
 
-| <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,js,html,css,git,github,vscode" width="1000"/> |
+| <img src="https://skillicons.dev/icons?i=python,fastapi,express,sqlite,js,html,css,git,github,vscode" width="1000"/> |
 |---|
 
 </p>
