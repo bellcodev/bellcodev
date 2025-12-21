@@ -125,10 +125,16 @@
 
 ---
 
-## 🌐 Connect with Me
-[![Instagram](https://img.shields.io/badge/Instagram-2C2C2C?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/whoisronystar)
-[![Email](https://img.shields.io/badge/Email-2C2C2C?style=for-the-badge&logo=gmail&logoColor=D1483)](mailto:belloconcepcionr@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2C2C2C?style=for-the-badge&logo=telegram&logoColor=#4493DB)](https://t.me/bellcodev)
+## 🌐 Find me at
+
+[![Instagram](https://img.shields.io/badge/Instagram-@whoisronystar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/whoisronystar)
+[![Link](https://img.shields.io/badge/Links-BellcoDev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://bellcodev.netlify.app)
+[![Web](https://img.shields.io/badge/Web-BellcoDev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://bellcodev.netlify.app)
+
+## 🌐 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-belloconcepcionr@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:belloconcepcionr@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@bellcodev-0088CC?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/bellcodev)
 
 <div align="center">
   <br>
