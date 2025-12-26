@@ -28,7 +28,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,express,sqlite,js,ts,html,css,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,express,sqlite,js,html,css,git,github,vscode&perline=8" />
 </p>
 
 ---
@@ -88,12 +88,3 @@
 ## 🌐 Connect With Me
 [![Email](https://img.shields.io/badge/Email-belloconcepcionr@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belloconcepcionr@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@bellcodev-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bellcodev)
-
----
-
-<div align="center">
-  <br>
-  <img src="name.svg" width="600" alt="Ronald"/>
-  <br>
-  <i>“Code is design, design is branding.”</i>
-</div>
