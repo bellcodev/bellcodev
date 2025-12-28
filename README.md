@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Ronald (BellcoDev)</h1>
 
 <p align="center">
-💻 Backend Developer | 🎨 Minimalist in design | 🚀 Building scalable & functional solutions  
+💻 Currently backend developer 
 </p>
 
 ---
