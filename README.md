@@ -1,6 +1,6 @@
 <!-- Profile README bellcodev -->
 
-<h1 align="center">👋 Hi, I'm Ronald (BellcoDev)</h1>
+<h1 align="center">👋 Hi, I'm Ronald (bellcoDev)</h1>
 
 <p align="center">
 💻 Currently backend developer 
