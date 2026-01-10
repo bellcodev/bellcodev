@@ -6,6 +6,10 @@
 💻 Currently backend developer 
 </p>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&text=bellcoDev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" />
+</div>
+
 ---
 
 <div align="center">
@@ -78,9 +82,9 @@
 
 ## 📊 Stats
 <p align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bellcodev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bellcodev&layout=compact&langs_count=8&theme=algolia" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bellcodev&theme=algolia" height="150"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bellcodev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bellcodev&layout=compact&langs_count=8&theme=tokyonight" height="150"/>
+<img src="https://streak-stats.demolab.com?user=bellcodev&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
 </p>
 
 ---
