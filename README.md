@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,express,sqlite,js,html,css,php,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,express,mysql,js,html,css,php,git,github,vscode&perline=8" />
 </p>
 
 ---
