@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Ronald (bellcoDev)</h1>
 
 <p align="center">
-💻 Currently backend developer 
+💻 Currently backend developer and learning hacking
 </p>
 
 <div align="center">
