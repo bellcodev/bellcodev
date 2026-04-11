@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&text=bellcoDev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=bellcoDev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" />
 </div>
 
 ---
@@ -32,7 +32,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,fastapi,express,mysql,js,html,css,php,linux,git,github,vscodium&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,express,mysql,js,html,css,php,kali,git,github,vscodium&perline=8" />
 </p>
 
 ---
