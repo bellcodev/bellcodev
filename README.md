@@ -1,13 +1,13 @@
 <!-- Profile README bellcodev -->
 
-<h1 align="center">👋 Hi, I'm Ronald (bellcoDev)</h1>
+<h1 align="center">👋 Hi, I'm Ronald (bellcodev)</h1>
 
 <p align="center">
 💻 Currently backend developer and learning hacking
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=bellcoDev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=bellcodev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlign=50" />
 </div>
 
 ---
