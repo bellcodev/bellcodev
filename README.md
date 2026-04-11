@@ -22,10 +22,9 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently building **backend APIs** with Python, FastAPI & Express.js.  
-- 🌱 Expanding into **TypeScript** and distributed systems.  
-- 🎯 Goal: Deliver **clean, reproducible, and professional code** with strong branding.  
-- 🧩 Passionate about **computer vision, automation, and modular architectures**.  
+- 🔭 Currently building **backend APIs** with Python, FastAPI & Express.js and learning **hacking** and **cibersecurity**.
+- 🌱 Expanding into **TypeScript**, **Hacking Tools**, **Bash** and distributed systems.  
+- 🎯 Goal: Deliver **clean, reproducible, and professional code** with strong branding.
 - 📫 Reach me at: [belloconcepcionr@gmail.com](mailto:belloconcepcionr@gmail.com)  
 
 ---
